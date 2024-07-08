@@ -1,0 +1,8 @@
+C:/Users/rogha/Documents/untitled1qt/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/CMakeFiles/untitled1qt.dir
+C:/Users/rogha/Documents/untitled1qt/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/rogha/Documents/untitled1qt/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/rogha/Documents/untitled1qt/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/rogha/Documents/untitled1qt/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/CMakeFiles/install.dir
+C:/Users/rogha/Documents/untitled1qt/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/CMakeFiles/install/local.dir
+C:/Users/rogha/Documents/untitled1qt/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/CMakeFiles/untitled1qt_autogen_timestamp_deps.dir
+C:/Users/rogha/Documents/untitled1qt/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/CMakeFiles/untitled1qt_autogen.dir
